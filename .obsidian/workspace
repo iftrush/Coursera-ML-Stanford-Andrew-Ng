@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "cc8383bdfce93ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7d510fc603824a",
+        "type": "leaf",
+        "dimension": 52.42718446601942,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Backpropagation.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "24c9235a1b82a80a",
+        "type": "leaf",
+        "dimension": 47.57281553398058,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Backpropagation.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "394b6da9c3fa8212",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f124e7f5a356630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcfcd78560d7cf49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e684b0ec240408b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67802b53b4ec6b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "b264304b805041e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc894400d6ec2c5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backpropagation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "beacc0322f32b416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25df9dcc2e37b79d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c7d510fc603824a",
+  "lastOpenFiles": [
+    "Backpropagation.md",
+    "Logistic Regression.md",
+    "Linear Regression.md",
+    "Hypothesis.md",
+    "Gradient Descent.md",
+    "Content.md",
+    "Backpropagation.pdf",
+    "Untitled.md"
+  ]
+}
